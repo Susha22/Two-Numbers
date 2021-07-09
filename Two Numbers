@@ -1,7 +1,8 @@
 import java.util.*;
 import java.io.*;
 import java.lang.*;
-class Codechef64{
+class TwoNumbers
+{
 	public static void main(String args[]) throws java.lang.Exception{
 		Scanner sc=new Scanner(System.in);
 		int t=sc.nextInt();
